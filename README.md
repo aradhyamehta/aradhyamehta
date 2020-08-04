@@ -6,4 +6,4 @@
 
 ## Languages & Tools
 
-[![Aradhya's github stats](https://github-readme-stats.vercel.app/api?username=aradhyamehta)](https://github.com/aradhyamehta)
+[![Aradhya's github stats](https://github-readme-stats.vercel.app/api?username=aradhyamehta&hide=stars,issues,contribs)](https://github.com/aradhyamehta)
