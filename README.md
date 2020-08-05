@@ -2,7 +2,8 @@
 - Currently working on [BugFree](http://github.com/aradhyamehta/BugFree) and the [Cryptopals challenge](https://cryptopals.com/)
 
 **Programming Languages**
-![Java](/assets/java.png)
+![Java](/java.png)
+![Java](./assets/java.png)
 <img align="middle" alt="Java" width="26px" title="Java" src="./assets/java.png" />
 <img align="middle" alt="JS" width="26px" title="JavaScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img align="middle" alt="Go" width="26px" title="Golang" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />
