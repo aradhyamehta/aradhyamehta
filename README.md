@@ -10,7 +10,7 @@
 >> <img align="middle" alt="TS" width="26px" title="TypeScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
 <br />
 
-> <div style="text-align: right"> Frameworks & Libraries </div>
+> <p style="text-align: right"> Frameworks & Libraries </p>
 >
 >> <img align="right" alt="React" width="26px" title="React" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
 >> <img align="right" alt="Redux" width="26px" title="Redux" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />
