@@ -31,3 +31,8 @@
 > <img align="middle" alt="D" width="26px" title="Docker" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
 > <img align="middle" alt="J" width="26px" title="Jenkins" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />
 > <img align="middle" alt="A" width="26px" title="AWS" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
+
+Technologies I'm Familiar with | Second Header
+------------ | -------------
+Programming Languages | <img align="middle" alt="D" width="26px" title="Docker" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+Frameworks & Libraries | <img align="middle" alt="D" width="26px" title="Docker" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
