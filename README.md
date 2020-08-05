@@ -10,14 +10,14 @@
 >> <img align="middle" alt="TS" width="26px" title="TypeScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
 <br />
 
-> **Frameworks & Libraries**
+> <div style="text-align: right"> Frameworks & Libraries </div>
 >
->> <img align="middle" alt="React" width="26px" title="React" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
->> <img align="middle" alt="Redux" width="26px" title="Redux" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />
->> <img align="middle" alt="N" width="26px" title="NodeJS" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
->> <img align="middle" alt="S" width="26px" title="Spring" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
->> <img align="middle" alt=".NET" width="26px" title=".NET" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg" />
->> <img align="middle" alt="GQ" width="26px" title="GraphQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apollographql.svg" />
+>> <img align="right" alt="React" width="26px" title="React" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+>> <img align="right" alt="Redux" width="26px" title="Redux" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />
+>> <img align="right" alt="N" width="26px" title="NodeJS" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+>> <img align="right" alt="S" width="26px" title="Spring" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
+>> <img align="right" alt=".NET" width="26px" title=".NET" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg" />
+>> <img align="right" alt="GQ" width="26px" title="GraphQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apollographql.svg" />
 <br />
 
 > **Databases**
