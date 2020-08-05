@@ -4,7 +4,9 @@
 
 ### Languages & Tools
 
-<img align="left" alt="JavaScript" width="26px" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Java" width="26px" title="Java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+
+<img align="left" alt="Java" width="26px" title="Java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 
 <img align="left" alt="typescript" width="26px" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
