@@ -1,6 +1,5 @@
 ### Hello, I'm Aradhya. :wave:
 - Currently working on [BugFree](http://github.com/aradhyamehta/BugFree) and the [Cryptopals challenge](https://cryptopals.com/)
-<br />
 
 ##### These are Software engineering langauges and tools I'm familiar with.
 
