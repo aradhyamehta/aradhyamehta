@@ -3,6 +3,7 @@
 
 ###### Programming Languages
 <figure><img align="left" alt="Java" width="26px" title="Java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /><figcaption>Java</figcaption></figure>
+![Java](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg)
 <img align="left" alt="JS" width="26px" title="JavaScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img align="left" alt="Go" width="26px" title="Golang" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />
 <img align="left" alt="C#" width="26px" title="C#" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
