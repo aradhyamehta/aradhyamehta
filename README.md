@@ -1,27 +1,30 @@
 ### Hello, I'm Aradhya. :wave:
-- Currently working on [BugFree](http://github.com/aradhyamehta/BugFree), a bug tracking web app.
+- Currently working on [BugFree](http://github.com/aradhyamehta/BugFree) and the [Cryptopals challenge](https://cryptopals.com/)
 <br />
 
-### Languages & Tools
+##### These are Software engineering langauges and tools I'm familiar with.
+
+###### Programming Languages
 
 <img align="left" alt="Java" width="26px" title="Java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-
-<img align="left" alt="JavaScript" width="26px" title="JavaScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-
+<img align="left" alt="JS" width="26px" title="JavaScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img align="left" alt="Go" width="26px" title="Golang" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />
+<img align="left" alt="C#" width="26px" title="C#" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
+<img align="left" alt="TS" width="26px" title="TypeScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
 
+###### Framworks & Libraries
 <img align="left" alt="React" width="26px" title="React" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+<img align="left" alt="Redux" width="26px" title="Redux" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />
+<img align="left" alt="N" width="26px" title="NodeJS" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+<img align="left" alt="S" width="26px" title="Spring" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
+<img align="left" alt=".NET" width="26px" title=".NET" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg" />
+<img align="left" alt="GQ" width="26px" title="GraphQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apollographql.svg" />
 
-<img align="left" alt="Node.js" width="26px" title="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+###### Databases
+<img align="left" alt="MS" width="26px" title="MySQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
+<img align="left" alt="MD" width="26px" title="MongoDB" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
 
-<img align="left" alt="GraphQL" width="26px" title="GraphQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apollographql.svg" />
-
-<img align="left" alt="MySQL" width="26px" title="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="MongoDB" width="26px" title="MongoDB" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
-
-<img align="left" alt="HTML5" width="26px" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="TypeScript" width="26px" title="TypeScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
+###### Devops & Cloud Technologies
+<img align="left" alt="D" width="26px" title="Docker" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+<img align="left" alt="J" width="26px" title="jenkins" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />
+<img align="left" alt="A" width="26px" title="AWS" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
