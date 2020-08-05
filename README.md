@@ -12,12 +12,12 @@
 
 > **Frameworks & Libraries**
 >
->> <img align="right" alt="React" width="26px" title="React" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
->> <img align="right" alt="Redux" width="26px" title="Redux" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />
->> <img align="right" alt="N" width="26px" title="NodeJS" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
->> <img align="right" alt="S" width="26px" title="Spring" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
->> <img align="right" alt=".NET" width="26px" title=".NET" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg" />
->> <img align="right" alt="GQ" width="26px" title="GraphQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apollographql.svg" />
+>> <img align="left" alt="React" width="26px" title="React" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+>> <img align="left" alt="Redux" width="26px" title="Redux" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />
+>> <img align="left" alt="N" width="26px" title="NodeJS" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+>> <img align="left" alt="S" width="26px" title="Spring" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
+>> <img align="left" alt=".NET" width="26px" title=".NET" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg" />
+>> <img align="left" alt="GQ" width="26px" title="GraphQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apollographql.svg" />
 <br />
 
 > **Databases**
