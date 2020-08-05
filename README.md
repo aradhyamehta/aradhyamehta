@@ -1,8 +1,9 @@
 ### Hello, I'm Aradhya. :wave:
 - Currently working on [BugFree](http://github.com/aradhyamehta/BugFree) and the [Cryptopals challenge](https://cryptopals.com/)
 
-**Programming Languages**
-<img align="middle" alt="Java" width="26px" title="Java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+> **Programming Languages**
+>
+>> <img align="middle" alt="Java" width="26px" title="Java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <img align="middle" alt="JS" width="26px" title="JavaScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img align="middle" alt="Go" width="26px" title="Golang" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />
 <img align="middle" alt="C#" width="26px" title="C#" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
