@@ -1,7 +1,7 @@
 
 ### Hello, I'm Aradhya. :wave:
 
-- Currently working on [BugFree](http://github.com/aradhyamehta/BugFree) and the [Cryptopals challenge](https://cryptopals.com/)
+- Currently working on [BugFree](https://github.com/aradhyamehta/issue-tracker) and the [Cryptopals challenge](https://cryptopals.com/)
 
 Technologies I'm Familiar with | -
 ------------ | -------------
