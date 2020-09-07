@@ -1,5 +1,5 @@
 
-### Hello, I'm Aradhya. :wave:
+### Hello, I'm Aradhya.
 
 - Currently working on [BugFree](https://github.com/aradhyamehta/issue-tracker) and the [Cheatsheets using wiki.js](https://wiki.js.org/)
 
