@@ -1,7 +1,7 @@
 
 ### Hello, I'm Aradhya.
 
-- Currently working on [BugFree](https://github.com/aradhyamehta/issue-tracker) and [Summary of CS](https://www.summaryofcs.com)
+- Currently working on [BugFree](https://github.com/aradhyamehta/issue-tracker)
 
 Technologies I'm Familiar with | -
 ------------ | -------------
