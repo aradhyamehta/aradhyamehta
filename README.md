@@ -1,5 +1,5 @@
 
-### Hello, I'm Aradhya.
+# Hello, I'm Aradhya
 
 - Currently working on [BugFree](https://github.com/aradhyamehta/issue-tracker)
 
